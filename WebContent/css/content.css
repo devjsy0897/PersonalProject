@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#t1{
+	margin: 0 auto;
+	width:55em;
+}
+#t2{
+	padding: 1em;
+	font-size:20px;
+	width: 4em;
+	border:2px solid #ccc;
+}
+#ima{
+	text-align: center;
+}
+td{
+	font-size: 20px;
+	padding: 1em;
+	border:2px solid #ccc;
+}
+#none{
+	border:none;
+	text-align: right;
+	padding-right: 0;
+}
+
+#add{
+	width:450px;
+}

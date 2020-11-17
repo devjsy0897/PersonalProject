@@ -1,0 +1,6 @@
+********************* READ ME *********************
+본 웹사이트 시작 시 이클립스 설정이 필요함 (파일 업로드시 자동 Refresh를 위함)
+1. 최 상단 메뉴 중 Window > Preferences
+2. 왼쪽 메뉴 바에서 General > Workspace
+3. Workspace 창에서 위에서 두 번째 Refresh using native hooks or polling 체크!!
+   (readme.jpg 참조)

@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+body {
+	background-color: #242424; margin: 0px;
+	padding: 0px; font-size: 0.75em;
+	line-height: 1.2em; color: #ffffff;
+}/*배경색 #898989 밖여백 0 안여백 0 글자크기 0.75em
+줄간격 1.2em 글자색 #333*/
+
+table{
+	margin: 0 auto;
+}
+
+.north{
+	text-align: center;
+	font-size: 30px;
+}
+.west{
+	text-align: center;
+	font-size: 30px;
+}
+.east{
+	text-align: center;
+	font-size: 30px;
+}
+.south{
+	text-align: center;
+	font-size: 30px;
+}
+.bus{	
+	display: block;
+	float:left;
+	margin: 0 auto;
+	width: 500px;
+}
+
+
+
+
